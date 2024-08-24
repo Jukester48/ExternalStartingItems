@@ -5,13 +5,13 @@
     <items>
       <Item>
         <name>Syringe</name>
-        <number>0</number>
+        <number>100</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Bear</name>
-        <number>0</number>
+        <number>1000</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -23,13 +23,13 @@
       </Item>
       <Item>
         <name>CritGlasses</name>
-        <number>0</number>
+        <number>10</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Hoof</name>
-        <number>0</number>
+        <number>20</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -41,7 +41,7 @@
       </Item>
       <Item>
         <name>Medkit</name>
-        <number>0</number>
+        <number>20</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -65,7 +65,7 @@
       </Item>
       <Item>
         <name>BleedOnHit</name>
-        <number>0</number>
+        <number>10</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -173,7 +173,7 @@
       </Item>
       <Item>
         <name>GoldOnHurt</name>
-        <number>0</number>
+        <number>100</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -197,25 +197,25 @@
       </Item>
       <Item>
         <name>Feather</name>
-        <number>0</number>
+        <number>10</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ChainLightning</name>
-        <number>0</number>
+        <number>1</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Seed</name>
-        <number>0</number>
+        <number>1</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
       <Item>
         <name>AttackSpeedOnCrit</name>
-        <number>0</number>
+        <number>1</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -227,7 +227,7 @@
       </Item>
       <Item>
         <name>Infusion</name>
-        <number>0</number>
+        <number>100</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -323,7 +323,7 @@
       </Item>
       <Item>
         <name>ExecuteLowHealthElite</name>
-        <number>0</number>
+        <number>10</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -353,13 +353,13 @@
       </Item>
       <Item>
         <name>RegeneratingScrap</name>
-        <number>0</number>
+        <number>2</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
       <Item>
         <name>FreeChest</name>
-        <number>0</number>
+        <number>20</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -377,7 +377,7 @@
       </Item>
       <Item>
         <name>Dagger</name>
-        <number>0</number>
+        <number>10</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -389,13 +389,13 @@
       </Item>
       <Item>
         <name>GhostOnKill</name>
-        <number>0</number>
+        <number>1</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
       <Item>
         <name>FallBoots</name>
-        <number>0</number>
+        <number>1</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -431,7 +431,7 @@
       </Item>
       <Item>
         <name>Clover</name>
-        <number>0</number>
+        <number>100</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -461,13 +461,13 @@
       </Item>
       <Item>
         <name>IncreaseHealing</name>
-        <number>0</number>
+        <number>20</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
       <Item>
         <name>BarrierOnOverHeal</name>
-        <number>0</number>
+        <number>20</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -515,13 +515,13 @@
       </Item>
       <Item>
         <name>PermanentDebuffOnHit</name>
-        <number>0</number>
+        <number>50</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ImmuneToDebuff</name>
-        <number>0</number>
+        <number>20</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -575,7 +575,7 @@
       </Item>
       <Item>
         <name>ShinyPearl</name>
-        <number>0</number>
+        <number>1</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
@@ -593,13 +593,13 @@
       </Item>
       <Item>
         <name>BleedOnHitAndExplode</name>
-        <number>0</number>
+        <number>1</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
       <Item>
         <name>SiphonOnLowHealth</name>
-        <number>0</number>
+        <number>1</number>
         <isActive>false</isActive>
         <mod>ITEM</mod>
       </Item>
